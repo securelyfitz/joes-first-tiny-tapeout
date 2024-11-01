@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Great, in theory.
+(Note: it doesn't actually work yet)
 
 ## How to test
 
-Explain how to use your project
+Toggle inputs. See outputs toggle
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Buttons (in0 and in1) and leds (out0)
